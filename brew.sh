@@ -101,6 +101,11 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# own additions below
+
+brew install testdisk
+brew install ola
+
 # brew cask
 brew install cask
 brew cask install skype
