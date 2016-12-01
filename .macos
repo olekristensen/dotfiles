@@ -46,6 +46,9 @@ sudo nvram SystemAudioVolume=" "
 #	"/System/Library/CoreServices/Menu Extras/Clock.menu"
 #
 
+# Enable ctrl-alt-cmd-T hotkey for Dark Theme switching
+sudo defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true
+
 # Set highlight color to green
 defaults write NSGlobalDomain AppleHighlightColor -string "0.764700 0.976500 0.568600"
 
