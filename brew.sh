@@ -101,5 +101,18 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+# brew cask
+brew install cask
+brew cask install skype
+brew cask install atom
+brew cask install logmein-hamachi
+brew cask install synology-cloud-station-drive
+brew cask install dropbox
+brew cask install vlc
+brew cask install tunnelblick
+brew cask install processing
+brew cask install arduino
+brew cask install google-chrome
+
 # Remove outdated versions from the cellar.
 brew cleanup
