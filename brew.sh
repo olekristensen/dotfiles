@@ -119,7 +119,6 @@ brew cask install processing
 brew cask install arduino
 brew cask install google-chrome
 brew cask install visual-studio-code
-brew cask install resilio-sync
 
 # Remove outdated versions from the cellar.
 brew cleanup
