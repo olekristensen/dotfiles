@@ -101,7 +101,6 @@ brew install ola
 # brew cask
 brew install cask
 brew cask install skype
-brew cask install atom
 brew cask install logmein-hamachi
 brew cask install synology-cloud-station-drive
 brew cask install dropbox
@@ -111,6 +110,7 @@ brew cask install processing
 brew cask install arduino
 brew cask install google-chrome
 brew cask install visual-studio-code
+brew cask install sourcetree
 
 # Remove outdated versions from the cellar.
 brew cleanup
